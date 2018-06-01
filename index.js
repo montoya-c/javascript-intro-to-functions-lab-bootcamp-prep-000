@@ -20,4 +20,6 @@ function sayHiToGrandma(string){
   }
 }
 
-function sayHiToGrandma 
+function sayHiToGrandma (string){
+  if (string.toLowerCase())
+}
